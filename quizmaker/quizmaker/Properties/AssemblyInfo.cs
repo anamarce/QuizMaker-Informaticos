@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general sobre un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie los valores de estos atributos para modificar la información
 // asociada a un ensamblado.
-[assembly: AssemblyTitle("quizmaker")]
+[assembly: AssemblyTitle("QuizMaker")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("quizmaker")]
+[assembly: AssemblyProduct("QuizMaker")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como ID de la biblioteca de tipos si este proyecto se expone a COM.
-[assembly: Guid("af17568f-d6d8-450c-b2a2-2152c8ad11f7")]
+[assembly: Guid("ef9c5c82-f053-447b-9614-75f7440c45b4")]
 
 // La información de versión de un ensamblado consta de los siguientes cuatro valores:
 //

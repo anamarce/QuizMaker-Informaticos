@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quizmaker", "quizmaker\quizmaker.csproj", "{660B0330-FF41-46E0-B17D-54005C84863D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizMaker", "QuizMaker\QuizMaker.csproj", "{8A59DF9C-3966-4FFB-80DF-468CB670F3D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{660B0330-FF41-46E0-B17D-54005C84863D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{660B0330-FF41-46E0-B17D-54005C84863D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{660B0330-FF41-46E0-B17D-54005C84863D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{660B0330-FF41-46E0-B17D-54005C84863D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A59DF9C-3966-4FFB-80DF-468CB670F3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A59DF9C-3966-4FFB-80DF-468CB670F3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A59DF9C-3966-4FFB-80DF-468CB670F3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A59DF9C-3966-4FFB-80DF-468CB670F3D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
