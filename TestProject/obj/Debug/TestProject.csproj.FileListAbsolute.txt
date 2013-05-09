@@ -1,0 +1,14 @@
+C:\Users\w7\Documents\QuickMarkertFraction\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\w7\Documents\QuickMarkertFraction\TestProject\bin\Debug\TestProject.dll
+C:\Users\w7\Documents\QuickMarkertFraction\TestProject\bin\Debug\TestProject.pdb
+C:\Users\w7\Documents\QuickMarkertFraction\TestProject\bin\Debug\QuickMarkertFraction.exe
+C:\Users\w7\Documents\QuickMarkertFraction\TestProject\bin\Debug\QuickMarkertFraction.pdb
+C:\Users\w7\Documents\QuickMarkertFraction\TestProject\obj\Debug\TestProject.dll
+C:\Users\w7\Documents\QuickMarkertFraction\TestProject\obj\Debug\TestProject.pdb
+C:\Users\Abigail\Documents\Visual Studio 2012\Projects\QuizMaker-Informaticos\TestProject\bin\Debug\TestProject.dll
+C:\Users\Abigail\Documents\Visual Studio 2012\Projects\QuizMaker-Informaticos\TestProject\bin\Debug\TestProject.pdb
+C:\Users\Abigail\Documents\Visual Studio 2012\Projects\QuizMaker-Informaticos\TestProject\bin\Debug\QuickMarkertFraction.exe
+C:\Users\Abigail\Documents\Visual Studio 2012\Projects\QuizMaker-Informaticos\TestProject\bin\Debug\QuickMarkertFraction.pdb
+C:\Users\Abigail\Documents\Visual Studio 2012\Projects\QuizMaker-Informaticos\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\Abigail\Documents\Visual Studio 2012\Projects\QuizMaker-Informaticos\TestProject\obj\Debug\TestProject.dll
+C:\Users\Abigail\Documents\Visual Studio 2012\Projects\QuizMaker-Informaticos\TestProject\obj\Debug\TestProject.pdb

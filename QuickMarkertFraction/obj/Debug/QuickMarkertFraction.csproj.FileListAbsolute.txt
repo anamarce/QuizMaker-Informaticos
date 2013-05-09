@@ -1,0 +1,15 @@
+C:\Users\w7\Documents\QuickMarkertFraction\QuickMarkertFraction\bin\Debug\QuickMarkertFraction.exe.config
+C:\Users\w7\Documents\QuickMarkertFraction\QuickMarkertFraction\obj\Debug\QuickMarkertFraction.csprojResolveAssemblyReference.cache
+C:\Users\w7\Documents\QuickMarkertFraction\QuickMarkertFraction\obj\Debug\QuickMarkertFraction.Properties.Resources.resources
+C:\Users\w7\Documents\QuickMarkertFraction\QuickMarkertFraction\obj\Debug\QuickMarkertFraction.csproj.GenerateResource.Cache
+C:\Users\w7\Documents\QuickMarkertFraction\QuickMarkertFraction\bin\Debug\QuickMarkertFraction.exe
+C:\Users\w7\Documents\QuickMarkertFraction\QuickMarkertFraction\bin\Debug\QuickMarkertFraction.pdb
+C:\Users\w7\Documents\QuickMarkertFraction\QuickMarkertFraction\obj\Debug\QuickMarkertFraction.exe
+C:\Users\w7\Documents\QuickMarkertFraction\QuickMarkertFraction\obj\Debug\QuickMarkertFraction.pdb
+C:\Users\Abigail\Documents\Visual Studio 2012\Projects\QuizMaker-Informaticos\QuickMarkertFraction\bin\Debug\QuickMarkertFraction.exe.config
+C:\Users\Abigail\Documents\Visual Studio 2012\Projects\QuizMaker-Informaticos\QuickMarkertFraction\bin\Debug\QuickMarkertFraction.exe
+C:\Users\Abigail\Documents\Visual Studio 2012\Projects\QuizMaker-Informaticos\QuickMarkertFraction\bin\Debug\QuickMarkertFraction.pdb
+C:\Users\Abigail\Documents\Visual Studio 2012\Projects\QuizMaker-Informaticos\QuickMarkertFraction\obj\Debug\QuickMarkertFraction.Properties.Resources.resources
+C:\Users\Abigail\Documents\Visual Studio 2012\Projects\QuizMaker-Informaticos\QuickMarkertFraction\obj\Debug\QuickMarkertFraction.csproj.GenerateResource.Cache
+C:\Users\Abigail\Documents\Visual Studio 2012\Projects\QuizMaker-Informaticos\QuickMarkertFraction\obj\Debug\QuickMarkertFraction.exe
+C:\Users\Abigail\Documents\Visual Studio 2012\Projects\QuizMaker-Informaticos\QuickMarkertFraction\obj\Debug\QuickMarkertFraction.pdb
