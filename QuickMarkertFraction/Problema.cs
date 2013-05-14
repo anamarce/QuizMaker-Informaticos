@@ -41,44 +41,5 @@ namespace QuickMarkertFraction
             return Resultado;
         }
 
-        public Fraccion sumar(Fraccion F1, Fraccion F2)
-        {
-            this.F1 = F1;
-            this.F2 = F2;
-            Resultado.setDenominador(F1.getDenominador() * F2.getDenominador());
-            int a = F1.getNumerador()*F2.getDenominador();
-            int b = F2.getNumerador()*F1.getDenominador();
-            Resultado.setNumerador(a + b);
-            return Resultado;
-        }
-
-        public Fraccion restar(Fraccion F1, Fraccion F2)
-        {
-            this.F1 = F1;
-            this.F2 = F2;
-            Resultado.setDenominador(F1.getDenominador() * F2.getDenominador());
-            int a = F1.getNumerador() * F2.getDenominador();
-            int b = F2.getNumerador() * F1.getDenominador();
-            Resultado.setNumerador(a - b);
-            return Resultado;
-        }
-
-        public Fraccion multiplicar(Fraccion F1, Fraccion F2)
-        {
-            this.F1 = F1;
-            this.F2 = F2;
-            Resultado.setDenominador(F2.getDenominador() * F1.getDenominador());
-            Resultado.setNumerador(F1.getNumerador() * F2.getNumerador());
-            return Resultado;
-        }
-
-        public Fraccion dividir(Fraccion F1, Fraccion F2)
-        {
-            this.F1 = F1;
-            this.F2 = F2;
-            Resultado.setNumerador(F1.getNumerador() * F2.getDenominador());
-            Resultado.setDenominador(F1.getDenominador() * F2.getNumerador());
-            return Resultado;
-        }
     }
 }
