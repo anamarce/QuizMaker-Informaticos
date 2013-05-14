@@ -45,7 +45,7 @@ namespace QuickMarkertFraction
         {
             this.F1 = F1;
             this.F2 = F2;
-            Resultado.setDenominador(F1.getNumerador() * F2.getNumerador());
+            Resultado.setDenominador(F1.getDenominador() * F2.getDenominador());
             int a = F1.getNumerador()*F2.getDenominador();
             int b = F2.getNumerador()*F1.getDenominador();
             Resultado.setNumerador(a + b);
@@ -56,7 +56,7 @@ namespace QuickMarkertFraction
         {
             this.F1 = F1;
             this.F2 = F2;
-            Resultado.setDenominador(F1.getNumerador() * F2.getNumerador());
+            Resultado.setDenominador(F1.getDenominador() * F2.getDenominador());
             int a = F1.getNumerador() * F2.getDenominador();
             int b = F2.getNumerador() * F1.getDenominador();
             Resultado.setNumerador(a - b);
@@ -67,8 +67,8 @@ namespace QuickMarkertFraction
         {
             this.F1 = F1;
             this.F2 = F2;
-            Resultado.setDenominador(F1.getNumerador() *F2.getNumerador());
-            Resultado.setNumerador(F2.getDenominador() * F1.getDenominador());
+            Resultado.setDenominador(F2.getDenominador() * F1.getDenominador());
+            Resultado.setNumerador(F1.getNumerador() * F2.getNumerador());
             return Resultado;
         }
 
@@ -76,8 +76,8 @@ namespace QuickMarkertFraction
         {
             this.F1 = F1;
             this.F2 = F2;
-            Resultado.setDenominador(F1.getNumerador() / F2.getNumerador());
-            Resultado.setNumerador(F2.getDenominador() / F1.getDenominador());
+            Resultado.setNumerador(F1.getNumerador() * F2.getDenominador());
+            Resultado.setDenominador(F1.getDenominador() * F2.getNumerador());
             return Resultado;
         }
     }

@@ -6,8 +6,6 @@ using System.Threading.Tasks;
 
 namespace QuickMarkertFraction
 {
-    
-
     public class Fraccion
     {
         private int _numerador;
@@ -32,6 +30,7 @@ namespace QuickMarkertFraction
             return this._numerador;
  	        //throw new System.NotImplementedException();
         }
+        
         public int getDenominador()
         {
             return this._denominador;
@@ -47,5 +46,7 @@ namespace QuickMarkertFraction
         {
             this._denominador = den;
         }
+
+
     }
 }
