@@ -138,3 +138,11 @@ namespace TestProject
 
     }
 }
+6);
+            bool b = (f1.getDenominador() == 6);
+            Assert.AreEqual(true, b);
+
+        }
+
+    }
+}
